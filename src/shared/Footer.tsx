@@ -204,7 +204,7 @@ const Footer = () => {
           </div>
           <div className=" bg-slate-400 h-[1px] w-full mt-16"></div>
           <p className="mt-8 text-xs text-center  text-gray-100">
-            © 2022 Prottasa Home care
+            © 2023 Prottasa Home care
           </p>
           <p className="max-w-md mx-auto mt-3 text-gray-300 text-sm text-center">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
