@@ -1,0 +1,39 @@
+.banner_bg {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.4)30%, rgba(0, 0, 0, 0.0001)70%), url('../assets/img/father-and-son-family-time-together-at-home.jpeg');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.about_bg {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7)30%, rgba(0, 0, 0, 0.2)70%), url('../assets/img/Skilled-Home-Care.jpg');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 70vh;
+}
+
+.service_bg {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7)30%, rgba(0, 0, 0, 0.2)70%), url('../assets/img/shutterstock_1219249606-1024x683.jpg');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 70vh;
+}
+
+.contact_bg {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7)30%, rgba(0, 0, 0, 0.2)70%), url('../assets/img/elder-training-using-computer-2022-11-16-17-22-58-utc-1.jpg');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 70vh;
+}
+
+.custom_gradient_bg {
+    background-image: linear-gradient(to top, rgba(255, 192, 203, 0.2) 20%, transparent 80%);
+}
